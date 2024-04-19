@@ -12,4 +12,4 @@ Also, a string describing the associated audio clip is displayed when the drum k
 
 Open the project with [Drum Machine](https://sotonye0808.github.io/drumMachine/)
 
-### Audio clips gotten from [freeCodeCamp drums]https://s3.amazonaws.com/freecodecamp/drums/
+### Audio clips gotten from [freeCodeCamp drums](https://s3.amazonaws.com/freecodecamp/drums/)
