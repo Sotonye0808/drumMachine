@@ -1,5 +1,6 @@
 {
-  "name": "drum-machine",
+  "homepage": "https://Sotonye0808.github.io/drumMachine",
+  "name": "drumMachine",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
